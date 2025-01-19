@@ -1,1 +1,1 @@
-# diagrama
+# diagrama-de-paquetes
